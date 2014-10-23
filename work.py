@@ -1,8 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Oct 18 12:08:18 2014
 
-i=10
-while(i>5):
-    print(i)
-    if(i==6):
-        i=10
-    print(i)
-    i-=1
+@author: girish
+"""
+
+import PIL
+
+from scipy.ndimage import filters
+from PIL import Image
+
+from pylab import *
+import os
+
+im = PIL.Image("banana.jpg")
+plot(im)
