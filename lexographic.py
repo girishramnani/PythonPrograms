@@ -1,10 +1,9 @@
 def display(array):
-    temp=1
-    out=0
-    for i in range(len(array)-1,-1,-1):
-        out+=(array[i]*temp)
-        temp*=10
-    print(out)
+    
+    out=""
+    for i in range(len(array)):
+        out+=str(array[i])
+    return out
 
 def getMinAndExchange(array,z):
     temp=z+1
@@ -20,7 +19,7 @@ def getMinAndExchange(array,z):
     array[temp]=array[z]
     array[z]=x
     sort(array,z)
-    display(array)
+    return display(array)
     
 
 def sort(array,index):
@@ -32,29 +31,28 @@ def sort(array,index):
                 array[i]=array[j]
                 array[j]=temp
                 
+iteration = int(input()) 
+for zz in range(iteration):
  
-number = str(input())
-
-li = list()
-i=(len(number)-2)
-
-
-
-
-for z in range(len(number)):
-    li.append(int(number[z]))
-
-print()
-display(li)
-while(i>-1):
+    number = str(input())
+    li = list()
+    i=(len(number)-2)
+    for z in range(len(number)):
+        li.append(number[z])
+    boo = True
+    #display(li)
     k=i+1
     if (li[k]>li[i]):
-        getMinAndExchange(li,i)
-        i=(len(number)-2)
+        ans =getMinAndExchange(li,i)
+        i=(len(number)-2)        
     else:
-        i-=1
-        
-        
+        boo= False
+    
+    if boo:
+        print(ans)  
+    else:
+        print("no answer")
+            
 
 
 
