@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Nov  5 23:41:40 2014
+
+@author: girish
+"""
+
 import random
 
 def partition(plist,index_pivot=0):
@@ -45,7 +52,7 @@ def Rselect(plist,i):
 
 iteration = int(input())
 li = [ int(x) for x in input().split()]
-Rselect(li,(len(li)-1)//2)
+Rselect(li,(len(li)+1)//2)
 
 
 
