@@ -1,0 +1,63 @@
+Message-ID: <22279761.1075849630329.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 08:56:00 -0800 (PST)
+From: lb_electronic_orders@dell.com
+To: jennifer.medcalf@enron.com
+Subject: Dell Order Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Dell Computer Corp." <LB_Electronic_Orders@dell.com>
+X-To: "jennifer.medcalf@enron.com" <jennifer.medcalf@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Personal
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Message-ID: <22039502.1075849630352.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 04:55:00 -0800 (PST)
+From: james.wininger@enron.com
+To: jennifer.medcalf@enron.com
+Subject: Brown bag thank you
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: James Wininger
+X-To: Jennifer Medcalf
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Personal
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Message-ID: <21643224.1075849630421.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 00:32:00 -0800 (PST)
+From: jennifer.stewart@enron.com
+To: jennifer.medcalf@enron.com
+Subject: Confirmation for Order #3253472
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jennifer N Stewart
+X-To: Jennifer Medcalf
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Personal
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Message-ID: <31844882.1075857580343.JavaMail.evans@thyme>
+Date: Tue, 11 Apr 2000 09:58:00 -0700 (PDT)
+From: john.arnold@enron.com
+To: mike.maggi@enron.com
+Subject: Option Analysis on NG Price Book
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Arnold
+X-To: Mike Maggi
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Dec2000\Notes Folders\Discussion threads
+X-Origin: Arnold-J
+X-FileName: Jarnold.nsf
