@@ -1,0 +1,3 @@
+amit,sharma 13bce110@nirmauni.ac.in 9601602146 tech-head
+shivam,rawat 13bce093@nirmauni.ac.in 9601602148 vice-president
+girish,Ramnani 13bce090@nirmauni.ac.in 9601602149 CEO
