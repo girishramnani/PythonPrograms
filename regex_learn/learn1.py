@@ -28,6 +28,13 @@ print(li_names)
 
 
 
+
 # now the tutors method 
 
+
+print(re.findall(r'''
+	([\w]*,[\w]*) \s
+	([\w]*@\w*[\.\w*]*) \s
+	(\d{10})
+	''',data,re.X))
 
