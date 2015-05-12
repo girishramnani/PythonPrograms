@@ -1,0 +1,12 @@
+import select
+
+import sys
+import socket 
+soc = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+soc.bind(('',8000))
+try:
+	r = soc.listen(5)
+	t = select.select([soc,0],[],[])
+except KeyboardInterrupt:
+	print("exit")
+print("got some input")
